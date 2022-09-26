@@ -2,10 +2,12 @@
 
 body {
     background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    background-repeat: no-repeat;
 }
 
 section#login {
     width: 80vw;
+    height: 280px;
 }
 
 section#login > div#imagem {
